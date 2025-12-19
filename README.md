@@ -22,11 +22,11 @@ It demonstrates the use of digital input handling, non-blocking timing control, 
   •	Breadboard and jumper wires.
 
 # How It Works
-## 1.	Normal Operation:
+# 1.	Normal Operation:
 
-	•	Vehicle traffic light remains green while no pedestrian request is made.
+  •	Vehicle traffic light remains green while no pedestrian request is made.
 
-	•	Pedestrian light remains red.
+  • Pedestrian light remains red.
 
 2.	Pedestrian Request:
 
