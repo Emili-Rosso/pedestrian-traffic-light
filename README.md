@@ -25,20 +25,25 @@ It demonstrates the use of digital input handling, non-blocking timing control, 
 1.	Normal Operation:
 
 	•	Vehicle traffic light remains green while no pedestrian request is made.
+
 	•	Pedestrian light remains red.
 
 2.	Pedestrian Request:
 
 	•	When the pedestrian presses the button, the system waits for a safe moment to interrupt the vehicle green light.
+
 	•	Vehicle lights change to yellow and then red.
+
 	•	Pedestrian light turns green, and the 7-segment display shows the remaining crossing time.
 
 3.	Crossing Timer:
 
 	•	The pedestrian has 10 seconds to cross.
+
 	•	The 7-segment display shows a countdown from 9 to 0, indicating the remaining time to cross safely.
 
-(4.	Return to Normal:
+4.	Return to Normal:
 
-	•	After the timer ends, pedestrian light turns red.
+	•	After the timer ends, pedestrian light turns red.    
+
 	•	Vehicle light returns to green, resuming normal operation.
