@@ -6,10 +6,11 @@ This project implements a pedestrian traffic light system using an Arduino. The 
 It demonstrates the use of digital input handling, non-blocking timing control, and state-based logic in Arduino programming. It is a practical example of how to combine sensors, outputs, and timing in embedded systems.
 
     Components 
-	•	Arduino Uno (or compatible board)
-	•	3 LEDs for vehicle traffic lights (Red, Yellow, Green)
-	•	2 LEDs for pedestrian traffic lights (Red, Green)
-	•	7-segment display
-	•	Push button (pedestrian request)
-	•	Resistors (for LEDs and button pull-down)
-	•	Breadboard and jumper wires
+
+  • Arduino Uno (or compatible board);
+  •	3 LEDs for vehicle traffic lights (Red, Yellow, Green);
+  •	2 LEDs for pedestrian traffic lights (Red, Green);
+  •	7-segment display;
+  •	Push button (pedestrian request);
+  •	Resistors (for LEDs and button pull-down);
+  •	Breadboard and jumper wires.
