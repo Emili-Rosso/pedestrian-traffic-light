@@ -1,4 +1,4 @@
-# 🚦pedestrian-traffic-light
+# 🚦Pedestrian Traffic Light System
  
 # Description 
 This project implements a pedestrian traffic light system using an Arduino. The system allows pedestrians to safely cross the street by pressing a request button, which triggers a sequence of traffic light changes for vehicles and pedestrians. A 7-segment display shows the remaining crossing time, giving pedestrians clear feedback on how long they have to cross safely.
