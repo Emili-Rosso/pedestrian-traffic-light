@@ -6,7 +6,7 @@ It demonstrates the use of digital input handling, non-blocking timing control, 
 
 # 🛠️ Components 
 
-  • Arduino Uno (or compatible board);
+  • Arduino Uno;
 
   •	3 LEDs for vehicle traffic lights (Red, Yellow, Green);
 
@@ -14,9 +14,9 @@ It demonstrates the use of digital input handling, non-blocking timing control, 
 
   •	7-segment display;
 
-  •	Push button (pedestrian request);
+  •	Push button;
 
-  •	Resistors (for LEDs and button pull-down);
+  •	Resistors;
 
   •	Breadboard and jumper wires.
 
