@@ -4,6 +4,9 @@ This project implements a pedestrian traffic light system using an Arduino. The 
 
 It demonstrates the use of digital input handling, non-blocking timing control, and state-based logic in Arduino programming. It is a practical example of how to combine sensors, outputs, and timing in embedded systems.
 
+Video: https://photos.app.goo.gl/XnXqvKuY8nd4iqZ36
+
+
 # 🛠️ Components 
 
   • Arduino Uno;
